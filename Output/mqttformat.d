@@ -1,0 +1,11 @@
+..\..\output\mqttformat.o: ..\..\Middlewares\MQTT\MQTTFormat.c
+..\..\output\mqttformat.o: ..\..\Middlewares\MQTT\StackTrace.h
+..\..\output\mqttformat.o: F:\ARM\ARMCC\Bin\..\include\stdio.h
+..\..\output\mqttformat.o: ..\..\Middlewares\MQTT\MQTTPacket.h
+..\..\output\mqttformat.o: ..\..\Middlewares\MQTT\MQTTConnect.h
+..\..\output\mqttformat.o: ..\..\Middlewares\MQTT\MQTTPublish.h
+..\..\output\mqttformat.o: ..\..\Middlewares\MQTT\MQTTSubscribe.h
+..\..\output\mqttformat.o: ..\..\Middlewares\MQTT\MQTTUnsubscribe.h
+..\..\output\mqttformat.o: ..\..\Middlewares\MQTT\MQTTFormat.h
+..\..\output\mqttformat.o: ..\..\Middlewares\MQTT\MQTTPacket.h
+..\..\output\mqttformat.o: F:\ARM\ARMCC\Bin\..\include\string.h
